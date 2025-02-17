@@ -1,0 +1,1 @@
+For this assignment, I used Github to create a repository. My first commit was a readMe file. Then I opened my vs code and made files index.html, report.md and student-info.txt. Then I used Git Bash to push my local files to Github.S
